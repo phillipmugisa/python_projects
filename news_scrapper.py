@@ -56,7 +56,7 @@ def get_news(url):
 def send_news(news):
     try:    
         account_sid = 'ACe7c7bffe4cfd9e0672f2426a95a8d4bf' 
-        auth_token = '3ac63f355758eb88c8858bf7963b4a36' 
+        auth_token = '999f031d4c22bdf6cf80bd8752338549' 
         client = Client(account_sid, auth_token) 
         
         message = client.messages.create( 
@@ -69,7 +69,7 @@ def send_news(news):
         print(message.sid)
     except Exception as err:
         account_sid = 'ACe7c7bffe4cfd9e0672f2426a95a8d4bf' 
-        auth_token = '3ac63f355758eb88c8858bf7963b4a36' 
+        auth_token = '999f031d4c22bdf6cf80bd8752338549' 
         client = Client(account_sid, auth_token) 
         
         message = client.messages.create( 
@@ -92,7 +92,7 @@ if __name__ == "__main__":
             time.sleep(3600)
         except Exception as err:
             account_sid = 'ACe7c7bffe4cfd9e0672f2426a95a8d4bf' 
-            auth_token = '3ac63f355758eb88c8858bf7963b4a36' 
+            auth_token = '999f031d4c22bdf6cf80bd8752338549' 
             client = Client(account_sid, auth_token) 
             
             message = client.messages.create( 
