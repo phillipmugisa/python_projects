@@ -1,0 +1,27 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+    <div class="edit-task" >
+        <form action="{{ url_for('edit_task', id=id) }}" method="POST">
+            <fieldset>
+                <legend>Edit Task</legend>
+                {{ crsf_token }}
+                <input type="text" name="task" placeholder="Enter Task" value="{{ task.task_name }}" required>
+                <div id="iscomplete">
+                    <label for="isDone">Task Complete: </label>
+                    {% if task.complete %}
+                        <input type="checkbox" checked name="isDone">
+                    {% else %}
+                        <input type="checkbox" name="isDone">
+                    {% endif %}
+                </div>
+                <input style="display: block;width: 100%;" type="submit" value="Edit Task">
+            </fieldset>
+        </form>
+        <a id="view-create" href="{{ url_for('homepage') }}">
+            View Tasks
+        </a>
+    </div>
+    
+
+{% endblock content %}

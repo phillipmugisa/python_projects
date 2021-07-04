@@ -1,0 +1,78 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+
+    <div class="content">
+        <div class="feeds">
+            {% if news %}
+                {% for news in news %}
+                    <div class="news">
+                        <div class="news-img">
+                            <img src="{{news.story_img}}" alt="{{news.title[:10]}}">
+                        </div>
+                        <div class="news-content">
+                            <div class="content">
+                                <h4 class="news-title">
+                                    <a href="{{news.link}}" target="blank">{{news.title}}</a>
+                                </h4>
+                                <div class="news-discription">
+                                    <p class="discription">{{news.discription}}</p>
+                                    <p class="category">{{news.source}}-{{news.category}}</p>
+                                </div>
+                            </div>
+                            <div class="news-share">
+                                <img src="https://img.icons8.com/material-outlined/24/000000/share.png"/>
+                            </div>
+                        </div>
+                    </div>
+                {% endfor %}
+            {% else %}
+            {% endif %}
+        </div>
+        <div class="side-bar">
+            <span class="tasks-head">Your Tasks</span>
+            <div class="tasks">
+                {% if tasks %}
+                    {% for task in tasks %}
+                        <div class="task">
+                            <div class="task-name">{{ task.task_name }}</div>
+                            {% if task.complete %}
+                                    <input type="checkbox" checked disabled>
+                            {% else %}
+                                    <input type="checkbox" disabled>
+                            {% endif %}
+                            <a id="task-edit" href="{{ url_for('edit_task', id=task.id)}}">
+                                Edit
+                            </a>  
+                            <a id="task-del" href="{{ url_for('delete_task', id=task.id)}}">
+                                Del
+                            </a> 
+                        </div>
+                    {% endfor %}
+                {% else %}
+                    <h2 class="page-message-default">No Tasks found.</h2>
+                {% endif %}
+                <a id="task-create" href="#" >
+                    Add Task
+                </a>   
+            </div>
+            <div class="create-task">
+                <form id="create_task" action="{{ url_for('create_task') }}" method="POST">
+                    <fieldset>
+                        <legend>Add Task</legend>
+                        {{ crsf_token }}
+                        <input type="text" name="task" placeholder="Enter Task" required>
+                        <input type="submit" value="Create Task">
+                    </fieldset>
+                </form>
+                <a id="view-create" href="#" >
+                    View Tasks
+                </a> 
+            </div>
+        </div>
+    </div>
+   
+<script>
+</script>
+
+{% endblock content %}

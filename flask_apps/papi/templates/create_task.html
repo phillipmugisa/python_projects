@@ -1,0 +1,18 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+
+    <form id="create_task" action="{{ url_for('create_task') }}" method="POST">
+        <fieldset>
+            <legend>Add Task</legend>
+            {{ crsf_token }}
+            <input type="text" name="task" placeholder="Enter Task" required>
+            <input type="submit" value="Create Task">
+        </fieldset>
+    </form>
+    <a href="{{ url_for('homepage') }}">
+        <button>View Tasks</button>
+    </a>
+    
+
+{% endblock content %}

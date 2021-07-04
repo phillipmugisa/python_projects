@@ -1,0 +1,22 @@
+{% extends 'layout.html' %}
+
+{% block content %}
+
+    <h2>Welcome To P-API</h2>
+    
+    {% if err %}
+        <b id='auth-err'>Please check you credentials</b>
+    {% endif %}
+
+    <form class="login" action="{{ url_for('login') }}" method="POST">
+        <fieldset>
+            <legend>Login</legend>
+            <label for="username">username</label>
+            <input type="text" name="username" autocomplete="off">
+            <label for="password">Password</label>
+            <input type="password" name="password">
+            <input type="submit" value="Login">
+        </fieldset>
+    </form>
+
+{% endblock %}
