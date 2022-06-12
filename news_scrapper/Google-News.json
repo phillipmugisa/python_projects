@@ -1,0 +1,577 @@
+[
+    {
+        "count": 15,
+        "category": "technology",
+        "articles": [
+            {
+                "url": "https://news.google.com/articles/CBMiSWh0dHBzOi8vd3d3LmdzbWFyZW5hLmNvbS90b3BfMTBfdHJlbmRpbmdfcGhvbmVzX29mX3dlZWtfMjMtbmV3cy01NDY0Ny5waHDSAUZodHRwczovL20uZ3NtYXJlbmEuY29tL3RvcF8xMF90cmVuZGluZ19waG9uZXNfb2Zfd2Vla18yMy1hbXAtNTQ2NDcucGhw?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Top 10 trending phones of week 23 - GSMArena.com news"
+            },
+            {
+                "url": "https://news.google.com/articles/CCAiC2NOajhTWTZhZk1FmAEB?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Soulstice - Official Cinematic Release Date Trailer | Summer of Gaming 2022"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiEI9yZDhUrmb7Rd1tXuPRmnMqMwgEKioIACIQ8tpafVMbH9tFxS-w5kUsDioUCAoiEPLaWn1TGx_bRcUvsOZFLA4wlfrJBg?uo=CAUiTGh0dHBzOi8vd3d3LnRlY2hyYWRhci5jb20vbmV3cy9mMS1tYW5hZ2VyLTIwMjItZG9lc250LXNoeS1hd2F5LWZyb20tdGhlLWRhdGHSAQA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "F1 Manager 2022 doesn't shy away from the data"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMibGh0dHBzOi8vd3d3LmdhbWVzcG90LmNvbS9hcnRpY2xlcy9nZXQtMy1tb250aHMtb2YteGJveC1nYW1lLXBhc3MtdWx0aW1hdGUtZm9yLW9ubHktMS1yaWdodC1ub3cvMTEwMC02NTA0MTExL9IBcGh0dHBzOi8vd3d3LmdhbWVzcG90LmNvbS9hbXAtYXJ0aWNsZXMvZ2V0LTMtbW9udGhzLW9mLXhib3gtZ2FtZS1wYXNzLXVsdGltYXRlLWZvci1vbmx5LTEtcmlnaHQtbm93LzExMDAtNjUwNDExMS8?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Get 3 Months Of Xbox Game Pass Ultimate For Only $1 Right Now"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiEGqe3alS577YTSIl4lDtDLoqEwgEKgwIACoFCAow4GowoAgwkRo?uo=CAUiaWh0dHBzOi8vd3d3LmNuZXQuY29tL3RlY2gvc2VydmljZXMtYW5kLXNvZnR3YXJlL2hvdy1hcHBsZS1tYXBzLWluLWlvcy0xNi13aWxsLWltcHJvdmUtdGhlLXdheS15b3UtdHJhdmVsL9IBAA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "How Apple Maps in iOS 16 Will Improve the Way You Travel"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiELMgKsZLXtoUGdb__4ChzogqFggEKg4IACoGCAow_598MLC1CTChqAY?uo=CAUia2h0dHBzOi8vd3d3Lm5tZS5jb20vbmV3cy9nYW1pbmctbmV3cy9kZWNlaXZlLWluYy1pcy1hLXNweS1nYW1lLWFib3V0LWNvbXBldGluZy13aXRoLXlvdXItY28td29ya2Vycy0zMjQ1Mjc50gEA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "'Deceive Inc.' is a spy game about competing with your co-workers"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiEI0mm02-4aMCO1kHJ2XcEtgqFggEKg4IACoGCAow_598MLC1CTChqAY?uo=CAUia2h0dHBzOi8vd3d3Lm5tZS5jb20vbmV3cy9nYW1pbmctbmV3cy9hZ2VudC02NC1zcGllcy1uZXZlci1kaWUtaXMtYS1wcm9taXNpbmctZ29sZGVuZXllLTY0LXRocm93YmFjay0zMjQ1MzM20gEA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "'Agent 64: Spies Never Die' is a promising 'GoldenEye 64' throwback"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMidGh0dHBzOi8vd3d3Lm5pbnRlbmRvbGlmZS5jb20vbmV3cy8yMDIyLzA2L3BlcnNvbmEtaW5zcGlyZWQtZGVtb25zY2hvb2wtbG9va3MtbGlrZS1hLWRzLWdhbWUtaW4tdGhlLWFic29sdXRlLWJlc3Qtd2F50gEA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Persona-Inspired 'Demonschool' Looks Like A DS Game In The Absolute Best Way"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMikQFodHRwczovL3d3dy5hbGxhYm91dGNpcmN1aXRzLmNvbS90ZWNobmljYWwtYXJ0aWNsZXMvaW50cm9kdWN0aW9ucy10by1yaXNjLXYtaW5zdHJ1Y3Rpb24tc2V0LXVuZGVyc3RhbmRpbmctdGhpcy1vcGVuLWluc3RydWN0aW9uLXNldC1hcmNoaXRlY3R1cmUv0gEA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "An Introduction to RISC-V—Understanding RISC's Open ISA - Technical Articles"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiEKbDqo5eOvPWoJBzkaLzLcIqMwgEKioIACIQzLIB3ayhnA7jk5N6scGyfCoUCAoiEMyyAd2soZwO45OTerHBsnwwvszaBg?uo=CAUiQ2h0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vODA0MzEyL2hvdy10by1mb2xsb3ctc29tZW9uZS1vbi1mYWNlYm9vay_SAQA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "How to Follow Someone on Facebook"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMicWh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3Mvc2VjdXJpdHkvbmV3LXZ5dGFsLWNocm9tZS1leHRlbnNpb24taGlkZXMtbG9jYXRpb24taW5mby10aGF0LXlvdXItdnBuLWNhbnQv0gF1aHR0cHM6Ly93d3cuYmxlZXBpbmdjb21wdXRlci5jb20vbmV3cy9zZWN1cml0eS9uZXctdnl0YWwtY2hyb21lLWV4dGVuc2lvbi1oaWRlcy1sb2NhdGlvbi1pbmZvLXRoYXQteW91ci12cG4tY2FudC9hbXAv?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "New Vytal Chrome extension hides location info that your VPN can't"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiEBz9zcq1_0jnVtzs19T-7IQqFQgEKg0IACoGCAow9ckFMIBVMMCfBA?uo=CAUiW2h0dHBzOi8vYXBwbGVpbnNpZGVyLmNvbS9hcnRpY2xlcy8yMi8wNi8xMi9hcHBsZS1zdGlsbC1wbGFucy1pcGFkLXByby11cGRhdGVzLWZvci1mYWxsLTIwMjLSAQA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Apple still plans iPad Pro updates for fall 2022"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiEBddHsgBb0r7TYrUMbG26-QqMwgEKioIACIQzLIB3ayhnA7jk5N6scGyfCoUCAoiEMyyAd2soZwO45OTerHBsnwwvszaBg?uo=CAUiOGh0dHBzOi8vd3d3Lmhvd3RvZ2Vlay5jb20vODA0OTE0L3NuaXBwaW5nLXRvb2wtc2hvcnRjdXQv0gEA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Open the Windows Snipping Tool With a Keyboard Shortcut"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiEHy98B7Qk1qTi_0hA9a1TfsqEwgEKgwIACoFCAow4GowoAgwkRo?uo=CAUiU2h0dHBzOi8vd3d3LmNuZXQuY29tL3RlY2gvaG9tZS1lbnRlcnRhaW5tZW50L2FwcGxlLXR2LTRrLWRlYWwtYW1hem9uLTEzMC1qdW5lLTIwMjIv0gEA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "This One-Day Deal Makes the Apple TV 4K $15 Cheaper Than the Non-4K Model"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiENj5Yq6nhRzih7Rz2ISa1IgqFQgEKg0IACoGCAowrqkBMKBFMMGBAg?uo=CAUijwFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL3BhdWx0YXNzaS8yMDIyLzA2LzEyL2Rlc3RpbnktMi12aWRlb3Mtc2hvdy1zb21ldGhpbmctaXMtdmVyeS1icm9rZW4td2l0aC1wdnAtYWZ0ZXItYWlyYm9ybmUtZWZmZWN0aXZlbmVzcy1jaGFuZ2VzL9IBAA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "‘Destiny 2’ Videos Show Something Is Very Broken With PvP After ‘Airborne Effectiveness’ Changes"
+            }
+        ]
+    },
+    {
+        "count": 15,
+        "category": "entertainment",
+        "articles": [
+            {
+                "url": "https://news.google.com/articles/CBMiSWh0dHBzOi8vd3d3LmdzbWFyZW5hLmNvbS90b3BfMTBfdHJlbmRpbmdfcGhvbmVzX29mX3dlZWtfMjMtbmV3cy01NDY0Ny5waHDSAUZodHRwczovL20uZ3NtYXJlbmEuY29tL3RvcF8xMF90cmVuZGluZ19waG9uZXNfb2Zfd2Vla18yMy1hbXAtNTQ2NDcucGhw?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Top 10 trending phones of week 23 - GSMArena.com news"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMiR2h0dHBzOi8vd3d3LnNoYWNrbmV3cy5jb20vYXJ0aWNsZS8xMzA5MDEvc291bHN0aWNlLWdhbWUtcmVsZWFzZS1kYXRlLXBj0gEA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Soulstice picks up its sword for September release date"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiEI9yZDhUrmb7Rd1tXuPRmnMqMwgEKioIACIQ8tpafVMbH9tFxS-w5kUsDioUCAoiEPLaWn1TGx_bRcUvsOZFLA4wlfrJBg?uo=CAUiTGh0dHBzOi8vd3d3LnRlY2hyYWRhci5jb20vbmV3cy9mMS1tYW5hZ2VyLTIwMjItZG9lc250LXNoeS1hd2F5LWZyb20tdGhlLWRhdGHSAQA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "F1 Manager 2022 doesn't shy away from the data"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMibGh0dHBzOi8vd3d3LmdhbWVzcG90LmNvbS9hcnRpY2xlcy9nZXQtMy1tb250aHMtb2YteGJveC1nYW1lLXBhc3MtdWx0aW1hdGUtZm9yLW9ubHktMS1yaWdodC1ub3cvMTEwMC02NTA0MTExL9IBcGh0dHBzOi8vd3d3LmdhbWVzcG90LmNvbS9hbXAtYXJ0aWNsZXMvZ2V0LTMtbW9udGhzLW9mLXhib3gtZ2FtZS1wYXNzLXVsdGltYXRlLWZvci1vbmx5LTEtcmlnaHQtbm93LzExMDAtNjUwNDExMS8?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Get 3 Months Of Xbox Game Pass Ultimate For Only $1 Right Now"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiEGqe3alS577YTSIl4lDtDLoqEwgEKgwIACoFCAow4GowoAgwkRo?uo=CAUiaWh0dHBzOi8vd3d3LmNuZXQuY29tL3RlY2gvc2VydmljZXMtYW5kLXNvZnR3YXJlL2hvdy1hcHBsZS1tYXBzLWluLWlvcy0xNi13aWxsLWltcHJvdmUtdGhlLXdheS15b3UtdHJhdmVsL9IBAA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "How Apple Maps in iOS 16 Will Improve the Way You Travel"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiEHlec86A80ANLFmMg1yx6EQqEwgEKgwIACoFCAowsGkw8AYwgxM?uo=CAUiaWh0dHBzOi8vdmVudHVyZWJlYXQuY29tLzIwMjIvMDYvMTIvbXVsdGlwbGF5ZXItc3B5LWdhbWUtZGVjZWl2ZS1pbmMtaXMtY29taW5nLXRvLXBjLWFuZC1jb25zb2xlcy1pbi0yMDIzL9IBAA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Multiplayer spy game Deceive Inc. is coming to PC and consoles in 2023"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiEI0mm02-4aMCO1kHJ2XcEtgqFggEKg4IACoGCAow_598MLC1CTChqAY?uo=CAUia2h0dHBzOi8vd3d3Lm5tZS5jb20vbmV3cy9nYW1pbmctbmV3cy9hZ2VudC02NC1zcGllcy1uZXZlci1kaWUtaXMtYS1wcm9taXNpbmctZ29sZGVuZXllLTY0LXRocm93YmFjay0zMjQ1MzM20gEA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "'Agent 64: Spies Never Die' is a promising 'GoldenEye 64' throwback"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMiaGh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3Mvc2VjdXJpdHkvcHlwaS1wYWNrYWdlLWtlZXAtbWlzdGFrZW5seS1pbmNsdWRlZC1hLXBhc3N3b3JkLXN0ZWFsZXIv0gFsaHR0cHM6Ly93d3cuYmxlZXBpbmdjb21wdXRlci5jb20vbmV3cy9zZWN1cml0eS9weXBpLXBhY2thZ2Uta2VlcC1taXN0YWtlbmx5LWluY2x1ZGVkLWEtcGFzc3dvcmQtc3RlYWxlci9hbXAv?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "PyPI package 'keep' mistakenly included a password stealer"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMie2h0dHBzOi8vYXBwbGVpbnNpZGVyLmNvbS9hcnRpY2xlcy8yMi8wNi8xMi9kZWFsLWFsZXJ0LWFwcGxlLXR2LTRrLWRyb3BzLXRvLTEyOTk5LWF0LWJvdGgtYW1hem9uLWFuZC1iZXN0LWJ1eT91dG1fbWVkaXVtPXJzc9IBcWh0dHBzOi8vYXBwbGVpbnNpZGVyLmNvbS9hcnRpY2xlcy8yMi8wNi8xMi9kZWFsLWFsZXJ0LWFwcGxlLXR2LTRrLWRyb3BzLXRvLTEyOTk5LWF0LWJvdGgtYW1hem9uLWFuZC1iZXN0LWJ1eS9hbXAv?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Deal alert: Apple TV 4K drops to $129.99 at both Amazon and Best Buy"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMiQmh0dHBzOi8vd3d3LnN1cmZhY2VtYWcuY29tL2FydGljbGVzL211c2hyb29tcy1wc3ljaGVkZWxpY3MtZGVzaWduL9IBRmh0dHBzOi8vd3d3LnN1cmZhY2VtYWcuY29tL2FydGljbGVzL211c2hyb29tcy1wc3ljaGVkZWxpY3MtZGVzaWduL2FtcC8?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Designers Are Tripping Over Themselves to Market Psychedelics"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiEBS-ml9M1PeYZKzfyjsSOfIqFggEKg4IACoGCAow_598MLC1CTChqAY?uo=CAUiYmh0dHBzOi8vd3d3Lm5tZS5jb20vbmV3cy9nYW1pbmctbmV3cy9uZXctYXRsdXMtaW5zcGlyZWQtcnBnLWRlbW9uc2Nob29sLWhhcy1iZWVuLWFubm91bmNlZC0zMjQ1MzQ10gEA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "New Atlus-inspired RPG 'Demonschool' has been announced"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMicWh0dHBzOi8vd3d3LmJsZWVwaW5nY29tcHV0ZXIuY29tL25ld3Mvc2VjdXJpdHkvbmV3LXZ5dGFsLWNocm9tZS1leHRlbnNpb24taGlkZXMtbG9jYXRpb24taW5mby10aGF0LXlvdXItdnBuLWNhbnQv0gF1aHR0cHM6Ly93d3cuYmxlZXBpbmdjb21wdXRlci5jb20vbmV3cy9zZWN1cml0eS9uZXctdnl0YWwtY2hyb21lLWV4dGVuc2lvbi1oaWRlcy1sb2NhdGlvbi1pbmZvLXRoYXQteW91ci12cG4tY2FudC9hbXAv?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "New Vytal Chrome extension hides location info that your VPN can't"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMikQFodHRwczovL3d3dy5hbGxhYm91dGNpcmN1aXRzLmNvbS90ZWNobmljYWwtYXJ0aWNsZXMvaW50cm9kdWN0aW9ucy10by1yaXNjLXYtaW5zdHJ1Y3Rpb24tc2V0LXVuZGVyc3RhbmRpbmctdGhpcy1vcGVuLWluc3RydWN0aW9uLXNldC1hcmNoaXRlY3R1cmUv0gEA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "An Introduction to RISC-V—Understanding RISC's Open ISA - Technical Articles"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiEBz9zcq1_0jnVtzs19T-7IQqFQgEKg0IACoGCAow9ckFMIBVMMCfBA?uo=CAUiW2h0dHBzOi8vYXBwbGVpbnNpZGVyLmNvbS9hcnRpY2xlcy8yMi8wNi8xMi9hcHBsZS1zdGlsbC1wbGFucy1pcGFkLXByby11cGRhdGVzLWZvci1mYWxsLTIwMjLSAQA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Apple still plans iPad Pro updates for fall 2022"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3LmVzY2FwaXN0bWFnYXppbmUuY29tL3RoZS1pbnZpbmNpYmxlLWdldHMtNS1taW51dGVzLW9mLW5ldy1yZXRyb2Z1dHVyaXN0aWMtZ2FtZXBsYXkv0gFjaHR0cHM6Ly93d3cuZXNjYXBpc3RtYWdhemluZS5jb20vdGhlLWludmluY2libGUtZ2V0cy01LW1pbnV0ZXMtb2YtbmV3LXJldHJvZnV0dXJpc3RpYy1nYW1lcGxheS9hbXAv?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "The Invincible Gets 5 Minutes of New Retrofuturistic Gameplay"
+            }
+        ]
+    },
+    {
+        "count": 30,
+        "category": "finance",
+        "articles": [
+            {
+                "url": "https://news.google.com/articles/CAIiEErm0QnLO693m4s9-6B7x5YqGQgEKhAIACoHCAownOOCCzCN6o0DMIfD_QU?uo=CAUiWGh0dHBzOi8vd3d3LmFmcmljYW5ld3MuY29tLzIwMjIvMDYvMTEvdGhlLWRldmVsb3BtZW50LW9mLXRoZS1wYW4tYWZyaWNhbi1wYXltZW50LXN5c3RlbS_SAQA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "The development of the Pan-African payment system"
+            },
+            {
+                "url": "https://news.google.com/articles/CCAiC1o4YlJkSjJyNDAwmAEB?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Discussion SA to get electric taxis"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiEJ6ylNHPEiSsLeAwap-dq48qGQgEKhAIACoHCAow4uzwCjCF3bsCMIrOrwM?uo=CAUicGh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTA2LTEyL2luZmxhdGlvbi10aHVuZGVyYm9sdC1wcmltZXMtc3RvY2tzLWJvbmRzLWZvci1tb3JlLXZvbGF0aWxpdHnSAQA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Stock Market Today: Dow, S&P Live Updates for June 13, 2022"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiEEh5Tv8Y2vCCNfdpWjEfC1wqFwgEKg8IACoHCAow-4fWBzD4z0gwwtp6?uo=CAUiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50L2RmYjBiNWM5LTRjNzQtNGQ2Ny05OTVkLTgzNTU2OTgwYjdjM9IBAA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "European pension funds attack Toyota for not going 'all in' on electric cars"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMic2h0dHBzOi8vd3d3LnJldXRlcnMuY29tL21hcmtldHMvY29tbW9kaXRpZXMvY2FuYWRhLWludmVzdC1taWxsaW9ucy1jdXQtZW1pc3Npb25zLWJocC1wb3Rhc2gtbWluZS1zb3VyY2UtMjAyMi0wNi0xMi_SAQA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Canada to invest millions to cut emissions at BHP potash mine"
+            },
+            {
+                "url": "https://news.google.com/articles/CCAiC1JPWkl5Z0JxWi1NmAEB?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Travel tips for Autism-friendly vacations | FOX 7 Austin"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiEGfOyYdCzZciK5ScLDfwHdMqFQgEKg0IACoGCAowrqkBMKBFMLKAAg?uo=CAUiaWh0dHBzOi8vd3d3LmZvcmJlcy5jb20vc2l0ZXMvZGF2aWRiaXJjaC8yMDIyLzA2LzEyL2RpdmluZy1mb3ItZGlnaXRhbC1kb2xsYXJzLWV4cGxvcmluZy1mb3ItbG9zdC1iaXRjb2luL9IBAA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Diving For Digital Dollars: Exploring For Lost Bitcoin"
+            },
+            {
+                "url": "https://news.google.com/articles/CCAiC2R1V1M2b01kaThzmAEB?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "How remote work may be dividing Canadians"
+            },
+            {
+                "url": "https://news.google.com/articles/CCAiCzJMeXN0TjFpbVQ4mAEB?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "FLAG RETIRING"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiEIQz0UfBZYH3uFD-rUSGoGEqGQgEKhAIACoHCAow4uzwCjCF3bsCMIrOrwM?uo=CAUic2h0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTA2LTEyL29yYWNsZS1zLWRhdGFiYXNlLWRvbWluYW5jZS1lcm9kZWQtYnktcmlzZS1vZi1jbG91ZC1maXJzdC1yaXZhbHPSAQA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Oracle's Database Dominance Eroded by Rise of Cloud-First Rivals"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiECO8y3su1gD6h_YqqxRutQwqGQgEKhAIACoHCAow4uzwCjCF3bsCMIrOrwM?uo=CAUicWh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTA2LTEyL2RobC13YXJucy1zdXBwbHktY2hhaW4td29uLXQtcmVjb3Zlci10by1wcmUtY292aWQtZGF5cy1pbi0yMDIz0gEA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "DHL Warns Supply Chain Won't Recover to Pre-Covid Days in 2023"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiENWNORau9XVr1UQlPb57UfUqMwgEKioIACIQs3-eH2_vhJwZbOVRrzYw-SoUCAoiELN_nh9v74ScGWzlUa82MPkwwpCwBw?uo=CAUiYGh0dHBzOi8vYXNpYS5uaWtrZWkuY29tL09waW5pb24vQ29sbGFwc2Utb2YtSVItSmFwYW4tc2hhcmVzLWEtaGFwcHktZGF5LWZvci1jb3Jwb3JhdGUtZ292ZXJuYW5jZdIBAA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Collapse of IR Japan shares a happy day for corporate governance"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMiRGh0dHBzOi8vd3d3LmluZm9xLmNvbS9uZXdzLzIwMjIvMDYvZ2l0aHViLWV4dGVuZHMtcnVzdC1zdXBwbHktY2hhaW4v0gEA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "GitHub Extends Its Supply Chain Security to Rust"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiEB0J6iowZOG9K_YO0TL8qEEqFwgEKg8IACoHCAow-4fWBzD4z0gwgtt6?uo=CAUiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzQyNTVjMGYwLWMwMGYtNGNmMy1iMTQ1LTE2YzU1ZTM5MDIzOdIBAA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "How company finance chiefs can prepare for the worst"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiEF8RqXyCuuy8YxFLQ6DW7KwqFwgEKg8IACoHCAow-4fWBzD4z0gw4tp6?uo=CAUiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzU2NzUwMGExLWI4YzEtNDMyMi04YTRlLWQzZjBhZDMxNDM3NdIBAA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Fintechs seek graduates who can straddle specialisms"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiEKbIpp29c0pQP-Kc4ElQjA4qGQgEKhAIACoHCAow4uzwCjCF3bsCMIrOrwM?uo=CAUicWh0dHBzOi8vd3d3LmJsb29tYmVyZy5jb20vbmV3cy9hcnRpY2xlcy8yMDIyLTA2LTEyL3doeS1iaXRjb2luLXNlZXMtbW9zdC1vZi1pdHMtZ2FpbnMtd2hpbGUtdXMtdHJhZGVycy1hcmUtYXNsZWVw0gEA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Why Bitcoin Sees Most Of Its Gains While US Traders are Asleep"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiED-OSGfZpR9T-8g9btscrbwqGQgEKhAIACoHCAowyNj6CjDyiPICMK_dxAU?uo=CAUiVGh0dHBzOi8vd3d3LmNic25ld3MuY29tL25ld3MvbW9oYW1lZC1lbC1lcmlhbi1mYWNlLXRoZS1uYXRpb24tdHJhbnNjcmlwdC0wNi0xMi0yMDIyL9IBAA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Transcript: Mohamed El-Erian on \"Face the Nation,\" June 12, 2022"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzFkMGM1MTYzLTVhZjktNDExZi05ODc0LWYyNTViZTdhM2FiY9IBAA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Banks take DIY route by taking tech education in-house"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiEAi73kzIFHUpbcrFTGurHwwqFwgEKg8IACoHCAow-4fWBzD4z0gw0tp6?uo=CAUiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzY0NzBhZWQ5LTViNWQtNGZkNy05NTYzLTk5ZDJmYTU4MWI5OdIBAA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Brazil's Embraer bets on smaller jets for post-pandemic success"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMiP2h0dHBzOi8vd3d3LmZ0LmNvbS9jb250ZW50LzE0OWYwZGZlLTExZWEtNDc4Yi1iMmRkLWQzOTI3M2Q3MjJhZNIBAA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Banking hubs retain allure amid shocks"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMihQFodHRwczovL3d3dy5ub3J0aGNvdW50cnlwdWJsaWNyYWRpby5vcmcvbmV3cy9ucHIvMTEwNDM5MzU0OS90YW1wb25zLWFyZS10aGUtbGF0ZXN0LXN1cHBseS1jaGFpbi1jYXN1YWx0eS13b21lbi10b29rLW5vdGljZS1tb250aHMtYWdv0gEA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Tampons are the latest supply chain casualty. Women took notice months ago"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMicWh0dHBzOi8vd3d3Lm9uY2xpdmUuY29tL3ZpZXcvZnJvbnRsaW5lLXN1YmN1dGFuZW91cy1lcGNvcml0YW1hYi1wbHVzLXItY2hvcC1lbGljaXRzLW9yci1vZi0xMDAtaW4taGlnaC1yaXNrLWRsYmNs0gEA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Frontline Subcutaneous Epcoritamab Plus R-CHOP Elicits ORR of 100% in High-Risk DLBCL"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiELvjVZB-B6i6zsJa7MD2dNYqGQgEKhAIACoHCAowsLXdCjCm3dEBMNS-swY?uo=CAUijwFodHRwczovL3d3dy5idXNpbmVzcy1zdGFuZGFyZC5jb20vYXJ0aWNsZS9pbnRlcm5hdGlvbmFsL2Rhc2hlZC1wZWFrLWluZmxhdGlvbi1ob3Blcy1zcGVsbC1tb3JlLXBhaW4tZm9yLXVzLXN0b2Nrcy1hbmQtYm9uZHMtMTIyMDYxMjAwNzY4XzEuaHRtbNIBAA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Dashed peak inflation hopes spell more pain for US stocks and bonds"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiEGKMyDxS1I-WijoQk_O2te8qFQgEKg0IACoGCAowrqkBMKBFMJGBAg?uo=CAUihAFodHRwczovL3d3dy5mb3JiZXMuY29tL3NpdGVzL2pvYW52ZXJkb24vMjAyMi8wNi8xMi9hLWdpYW50LW1hbGwtdGhpbmtzLXNtYWxsLXdlc3RmaWVsZC1wcm9wZXJ0eS1waWxvdHMtcHJvZ3JhbS1mb3ItbG9jYWwtYnVzaW5lc3Nlcy_SAQA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "A Giant Mall Thinks Small: Westfield Property Pilots Program For Local Businesses"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMiYmh0dHBzOi8vd3d3LnRhcmdldGVkb25jLmNvbS92aWV3L3RyYWluLTItdHJpYWwtbGVhZHMtdG8tY2hhbmdlcy1pbi10cmVhdG1lbnQtb2YtaGVyMi1icmVhc3QtY2FuY2Vy0gEA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "TRAIN-2 Trial Leads to Changes in Treatment of HER2+ Breast Cancer"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMiX2h0dHBzOi8vd3d3Lm9uY2xpdmUuY29tL3ZpZXcvYnJ1aW4tY2xsLTMxMy10cmlhbC10by1ldmFsdWF0ZS1waXJ0b2JydXRpbmliLWluLXVudHJlYXRlZC1jbGwtc2xs0gEA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "BRUIN CLL-313 Trial To Evaluate Pirtobrutinib in Untreated CLL/SLL"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMiYWh0dHBzOi8vd3d3LnNkeGNlbnRyYWwuY29tL2FydGljbGVzL25ld3MvYXdzLWlibS1jaXNjby1sZWFkLXN1cmdpbmctY3liZXJzZWN1cml0eS1tYXJrZXQvMjAyMi8wNi_SAQA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "AWS, IBM, Cisco Lead Surging Cybersecurity Market"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMiS2h0dHBzOi8vd3d3LmhlbGxlbmljc2hpcHBpbmduZXdzLmNvbS9kZWNhcmJvbmlzYXRpb24tYW5kLWFsdGVybmF0aXZlLWZ1ZWxzL9IBT2h0dHBzOi8vd3d3LmhlbGxlbmljc2hpcHBpbmduZXdzLmNvbS9kZWNhcmJvbmlzYXRpb24tYW5kLWFsdGVybmF0aXZlLWZ1ZWxzL2FtcC8?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Decarbonisation and Alternative fuels"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiEPglNzaXbspPqJQO3Ox3suMqGQgEKhAIACoHCAow2pqGCzD954MDMPa15gY?uo=CAUitQFodHRwczovL2Vjb25vbWljdGltZXMuaW5kaWF0aW1lcy5jb20vcHJpbWUvdGVjaG5vbG9neS1hbmQtc3RhcnR1cHMvdGhlLW1hbi1pbi10aGUtbWlkZGxlLXdoeS10aGUtZ2xhcmUtaXMtb24tc2hhaWxlbmRyYS1zaW5naC1pbi1zZXF1b2lhcy1ob3JyaWJsZS15ZWFyL3ByaW1lYXJ0aWNsZXNob3cvOTIxNjU0OTQuY21z0gEA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "The man in the middle: why the glare is on Shailendra Singh in Sequoia’s horrible year"
+            },
+            {
+                "url": "https://news.google.com/articles/CCAiCzJHSlFIZzgwdEJjmAEB?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Washington BBB: Beware of fake job offers, phony messaging downloads"
+            }
+        ]
+    },
+    {
+        "count": 13,
+        "category": "sports",
+        "articles": [
+            {
+                "url": "https://news.google.com/articles/CCAiC1BQMDBlVzY4YXY4mAEB?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "SINGLETON GOLF: The game's finals now set for 9th July"
+            },
+            {
+                "url": "https://news.google.com/articles/CCAiCzdrUk1tbDRNYlYwmAEB?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "CRICKET: Uganda optimistic about World Cup challenge league B"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMicGh0dHBzOi8vd3d3Lm1vbml0b3IuY28udWcvdWdhbmRhL21hZ2F6aW5lcy9zY29yZS9hbGdlcmlhbnMtbGVhdmUtY3JhbmVzLWFuZC1jb21wYW55LWluLWEtcmFjZS1mb3ItY3J1bWJzLTM4NDUxNTDSAQA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Algerians leave Cranes and company in a race for crumbs"
+            },
+            {
+                "url": "https://news.google.com/articles/CCAiC3laNnRkQzRHMTZBmAEB?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Ndejje University, Police and Victoria university in handball league wins"
+            },
+            {
+                "url": "https://news.google.com/articles/CCAiC0FPTENzS1dsZExNmAEB?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Eight teams gather for Aporu Okol International volleyball championship"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMibmh0dHBzOi8vd3d3Lm1vbml0b3IuY28udWcvdWdhbmRhL21hZ2F6aW5lcy9zY29yZS9ueWF5ZW5nYS13YW50cy10by1lYXJuLWhlci1uYXRpb25hbC1zdHJpcGVzLWdyYWR1YWxseS0zODQ1MTkw0gEA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Nyayenga wants to earn her national stripes gradually"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMigwFodHRwczovL3d3dy5tb25pdG9yLmNvLnVnL3VnYW5kYS9tYWdhemluZXMvc2NvcmUvb2YtaXNobWFpbC13YWlucmlnaHQtYnJhbmRvbi1kYXZpcy1hbmQtZmliYS1zLWJhc2tldGJhbGwtbmF0aW9uYWxpdHktcnVsZXMtMzg0NTE3MtIBAA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Of Ishmail Wainright, Brandon Davis, and Fiba's basketball nationality rules"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMiVGh0dHBzOi8vd3d3LmJlc29jY2VyLmNvbS9uZXcvb2ZmZXJzLWZyb20tYmFyY2EtYW5kLW9seW1waXF1ZS1seW9uLWZvci1rYXRvdG8tMTE1MDM2NtIBAA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Offers from Barça and Olympique Lyon for Katoto"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiED-9uZdSZhXSdOGHU3cwsfUqGQgEKhAIACoHCAowl9_8CjDwsIkDMODougU?uo=CAUiYmh0dHBzOi8vd3d3LmZvb3RiYWxsLmxvbmRvbi9jaGVsc2VhLWZjL3RyYW5zZmVyLW5ld3MvY2hlbHNlYS1kZWNsYW4tcmljZS10cmFuc2ZlcnMtdHVjaGVsLTI0MjAxNjg50gEA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Chelsea could launch £75 million bid in Declan Rice negotiation amid Aurelien Tchouameni loss"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiEPg-eNc1vYjKluXRNpOtfNMqFggEKg4IACoGCAowl6p7MN-zCTDlkko?uo=CAUiVmh0dHBzOi8vd3d3LnRoZWd1YXJkaWFuLmNvbS9zcG9ydC8yMDIyL2p1bi8xMi9waGlsLWJlbm5ldHQtd2Vsc2gtZmx5LWhhbGYtZGllcy1hZ2VkLTcz0gEA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Rugby union pays tribute to Phil Bennett, who has died aged 73"
+            },
+            {
+                "url": "https://news.google.com/articles/CCAiC05ZYjdwUXVRTDQ4mAEB?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Out. Of. This. World. #Shorts"
+            },
+            {
+                "url": "https://news.google.com/articles/CCAiC2dPeUJ3dEhNQUdJmAEB?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "The Ultimate Fighter Recap: Episode 6 | Team Peña vs Team Nunes | Season 30"
+            },
+            {
+                "url": "https://news.google.com/articles/CCAiC0YxMFd0RVJqU1hrmAEB?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Tim Tebow gets a surfing lesson from Special Olympian Layla Crehan"
+            }
+        ]
+    },
+    {
+        "count": 36,
+        "category": "health",
+        "articles": [
+            {
+                "url": "https://news.google.com/articles/CBMic2h0dHBzOi8vY29kZWxpc3QuYml6LzIwMjIvMDYvMTAvbGVhcm4tYWJvdXQtdGhlLW1haW4tc2V4dWFsbHktdHJhbnNtaXR0ZWQtaW5mZWN0aW9ucy1pbi12aXJ0dWFsLWFuZC1wYW5kZW1pYy10aW1lcy_SAXdodHRwczovL2NvZGVsaXN0LmJpei8yMDIyLzA2LzEwL2xlYXJuLWFib3V0LXRoZS1tYWluLXNleHVhbGx5LXRyYW5zbWl0dGVkLWluZmVjdGlvbnMtaW4tdmlydHVhbC1hbmQtcGFuZGVtaWMtdGltZXMvYW1wLw?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Learn about the main sexually transmitted infections in virtual and pandemic times"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMiXmh0dHBzOi8vbWVkaWNhbHhwcmVzcy5jb20vbmV3cy8yMDIyLTA2LWFudGliaW90aWMtZnJlZS1oeWRyb2dlbi1wZXJveGlkZS1lLWJhbmRhZ2VzLXdvdW5kLmh0bWzSAV1odHRwczovL21lZGljYWx4cHJlc3MuY29tL25ld3MvMjAyMi0wNi1hbnRpYmlvdGljLWZyZWUtaHlkcm9nZW4tcGVyb3hpZGUtZS1iYW5kYWdlcy13b3VuZC5hbXA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Antibiotic-free hydrogen peroxide e-bandages treat wound infections"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMiN2h0dHBzOi8vd3d3Lm1lZHBhZ2V0b2RheS5jb20vbWVldGluZ2NvdmVyYWdlL2VuZG8vOTkxOTHSAQA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Prediabetes May be an Independent Risk Factor for MI"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiEGvNJDf_6WY4cFmKaKu33uIqGQgEKhAIACoHCAow_e2PCzDGtqMDMNbzsAY?uo=CAUiOmh0dHBzOi8vbmV1cm9zY2llbmNlbmV3cy5jb20vZ2xpb21hLWNhbmNlci1nZW5ldGljcy0yMDgxMi_SAQA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Recurring Brain Tumors Shaped by Genetic Evolution and Microenvironment"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMiTWh0dHBzOi8vc2NpdGVjaGRhaWx5LmNvbS81LXN1cnByaXNpbmctYmVuZWZpdHMtb2YteW91ci1tb3JuaW5nLWN1cC1vZi1jb2ZmZWUv0gFRaHR0cHM6Ly9zY2l0ZWNoZGFpbHkuY29tLzUtc3VycHJpc2luZy1iZW5lZml0cy1vZi15b3VyLW1vcm5pbmctY3VwLW9mLWNvZmZlZS9hbXAv?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "5 Surprising Benefits of Your Morning Cup of Coffee"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMigQFodHRwczovL3d3dy5oZWFsaW8uY29tL25ld3MvZW5kb2NyaW5vbG9neS8yMDIyMDYxMi9leGNlc3NpdmUtbW9iaWxlLWRldmljZS11c2UtbGlua2VkLXRvLWhpZ2hlci1ibWktb3RoZXItYWR2ZXJzZS1oZWFsdGgtb3V0Y29tZXPSAQA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Excessive mobile device use linked to higher BMI, other adverse health outcomes"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMiVGh0dHBzOi8vd3d3Lm5ldXJvbG9neWxpdmUuY29tL3ZpZXcvbmV1cm9uYWwtY29tcGxleGl0eS1tb2RlbC1taWdyYWluZS1hbXluYWgtcHJhZGhhbtIBAA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Neuronal Complexity in a Model of Migraine: Amynah Pradhan, PhD"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiEB7JcNHCWP9pF8GPLjMP9zAqMwgEKioIACIQt0sVd2IJWrv4unhvsO9ReCoUCAoiELdLFXdiCVq7-Lp4b7DvUXgw9JOCBw?uo=CAUiO2h0dHBzOi8vYmlndGhpbmsuY29tL2hlYWx0aC9nYWJhcGVudGluLXJlcGFpci1icmFpbi1zdHJva2Uv0gEA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Gabapentin: FDA-approved drug could repair brain after stroke"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMipwFodHRwczovL3d3dy5jdXJldXMuY29tL2FydGljbGVzLzEwMDMzOC1jZXJlYnJvc3BpbmFsLWZsdWlkLWRpdmVyc2lvbi1mb3ItcmVmcmFjdG9yeS1pbnRyYWNyYW5pYWwtaHlwZXJ0ZW5zaW9uLWEtdW5pdGVkLWtpbmdkb20tYW5kLWlyZWxhbmQtc3VydmV5LW9uLXByYWN0aWNlLXZhcmlhdGlvbtIBAA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Cerebrospinal Fluid Diversion for Refractory Intracranial Hypertension: A United Kingdom and Ireland Survey on Practice Variation"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMiVGh0dHBzOi8vd3d3LmN1cmV1cy5jb20vYXJ0aWNsZXMvOTg4MjYtdW5jb21tb24tY2F1c2Utb2YtY2hyb25pYy12b21pdGluZy1pbi1jaGlsZHJlbtIBAA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Uncommon Cause of Chronic Vomiting in Children"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMiSWh0dHBzOi8vd3d3LmNhbmNlcm5ldHdvcmsuY29tL3ZpZXcvdHJlYXRtZW50LXVwZGF0ZXMtaW4tdXJvdGhlbGlhbC1jYW5jZXLSAQA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Recap: Treatment Updates in Urothelial Cancer"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMiK2h0dHBzOi8vd3d3Lm1lZHNjYXBlLmNvbS92aWV3YXJ0aWNsZS85NzU0MzfSAQA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Avexitide Promising for Hypoglycemia After Weight Loss Surgery"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMihAFodHRwczovL3d3dy5jdXJldXMuY29tL2FydGljbGVzLzEwMTQyNC10YWNyb2xpbXVzLWluZHVjZWQtdGhyb21ib3RpYy1taWNyb2FuZ2lvcGF0aHktYWZ0ZXItb3J0aG90b3BpYy1oZWFydC10cmFuc3BsYW50LWEtY2FzZS1yZXBvcnTSAQA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Tacrolimus-Induced Thrombotic Microangiopathy After Orthotopic Heart Transplant: A Case Report"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMiUGh0dHBzOi8vd3d3Lm1pbmluZy5jb20vY29wcGVyLW1vcmUtZWZmZWN0aXZlLXRoYW4tc2lsdmVyLWluLWtpbGxpbmctY292aWQtdmlydXMv0gEA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Copper more effective than silver in killing covid virus - MINING.COM"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMiUWh0dHBzOi8vd3d3LmN1cmV1cy5jb20vYXJ0aWNsZXMvODA3MTktcmFyZS1hbmdpbmEtYS1jYXNlLXJlcG9ydC1vZi1sdWR3aWdzLWFuZ2luYdIBAA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Rare Angina: A Case Report of Ludwig's Angina"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMijwFodHRwczovL3d3dy5jdXJldXMuY29tL2FydGljbGVzLzk3NzcxLWFjdXRlLWh5cG94ZW1pYy1yZXNwaXJhdG9yeS1mYWlsdXJlLWR1ZS10by1jb3ZpZC0xOS1pbi1hLXBhdGllbnQtd2l0aC11bmRlcmx5aW5nLWx5bXBoYW5naW9sZWlvbXlvbWF0b3Npc9IBAA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Acute Hypoxemic Respiratory Failure Due to COVID-19 in a Patient With Underlying Lymphangioleiomyomatosis"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMiaWh0dHBzOi8vc2NpdGVjaGRhaWx5LmNvbS9pbmZlY3Rpb3VzLWRpc2Vhc2UtZXhwZXJ0LXdoYXQteW91LXNob3VsZC1rbm93LWFib3V0LXRoZS1uZXctbW9ua2V5cG94LW91dGJyZWFrL9IBbWh0dHBzOi8vc2NpdGVjaGRhaWx5LmNvbS9pbmZlY3Rpb3VzLWRpc2Vhc2UtZXhwZXJ0LXdoYXQteW91LXNob3VsZC1rbm93LWFib3V0LXRoZS1uZXctbW9ua2V5cG94LW91dGJyZWFrL2FtcC8?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Infectious Disease Expert: What You Should Know About the New Monkeypox Outbreak"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMiPmh0dHBzOi8vd3d3LmVhdHRoaXMuY29tL25ld3Mtc2lkZS1lZmZlY3RzLW9mLWhpZ2gtYmxvb2Qtc3VnYXIv0gEA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Side Effects of Way \"Too High Blood Sugar\" — Eat This Not That"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiEBeMXJ8a-qJTR4r2j2FWRSgqGQgEKhAIACoHCAowoeiWCzDEj64DMPWF0AY?uo=CAUiOmh0dHBzOi8vd3d3LmZyZWV0aGluay5jb20vaGVhbHRoL25hbm9zY2FsZS1iYWN0ZXJpYS1kcmlsbHPSAQA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Tiny nanoscale drills can bore holes right through bacteria"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiEJ61WvjzYjTYqjYZEHKgynAqMwgEKioIACIQ0gQH-j8UG1r6B8re9E7OkCoUCAoiENIEB_o_FBta-gfK3vROzpAw3fD_Bg?uo=CAUiNmh0dHBzOi8vd3d3LnN0dWR5ZmluZHMub3JnL2JyZWF0aC10cmFpbmluaW5nLWV4ZXJjaXNlL9IBAA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Just 5 minutes of breath training every day makes exercise easier for adults"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMiWmh0dHBzOi8vc2NpdGVjaGRhaWx5LmNvbS9zY2llbnRpc3RzLWRpc2NvdmVyLWFuLWFsYXJtaW5nLXJpc2UtaW4tYS1jZXJ0YWluLWNhbmNlci12YXJpYW50L9IBXmh0dHBzOi8vc2NpdGVjaGRhaWx5LmNvbS9zY2llbnRpc3RzLWRpc2NvdmVyLWFuLWFsYXJtaW5nLXJpc2UtaW4tYS1jZXJ0YWluLWNhbmNlci12YXJpYW50L2FtcC8?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Scientists Discover an Alarming Rise in a Certain Cancer Variant"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiEIKXoi2esxf98IFYkIzVSc0qGQgEKhAIACoHCAowzrL9CjDC7vQCMPWw5QY?uo=CAUiigFodHRwczovL3RpbWVzb2ZpbmRpYS5pbmRpYXRpbWVzLmNvbS9saWZlLXN0eWxlL2hlYWx0aC1maXRuZXNzL2hlYWx0aC1uZXdzL3RoZXNlLWZvb2RzLWNhbi1sb3dlci10aGUtcmlzay1vZi1jYW5jZXIvcGhvdG9zdG9yeS85MjA2MzU3My5jbXPSAQA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "These foods can lower the risk of cancer"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiEPkG52gi7j60NCXxIW0pbTsqGAgEKg8IACoHCAow3rvTBDD89X4w8YzmBQ?uo=CAUibGh0dHBzOi8vaW5kaWFuZXhwcmVzcy5jb20vYXJ0aWNsZS9wYXJlbnRpbmcvZWF0LXJpZ2h0LWJ1aWxkaW5nLWEtc3Ryb25nLXN0b21hY2gtZm9yLWJldHRlci1pbW11bml0eS03OTY1MDk5L9IBAA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Eat Right: Building a strong stomach for better immunity"
+            },
+            {
+                "url": "https://news.google.com/articles/CCAiC1g3ZlVOaklycElnmAEB?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Study shows diet could impact treatment for Type 2 Diabetes"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiEKiuNEewiyWDNG2T6mEWGxcqGQgEKhAIACoHCAowvfmRCzCeoqcDMNOwuwY?uo=CAUiOWh0dHBzOi8vd3d3LmludmVyc2UuY29tL3NjaWVuY2UvcmhkdjItcmFiYml0LWRpc2Vhc2UtaW5mb9IBAA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "RHDV2: Symptoms, vaccine for rabbits, and more about the fatal bunny disease in the U.S."
+            },
+            {
+                "url": "https://news.google.com/articles/CBMidWh0dHBzOi8vd3d3LmN1cmV1cy5jb20vYXJ0aWNsZXMvODkyODAtZnJlcXVlbmN5LW9mLXN1YmNsaW5pY2FsLWh5cG90aHlyb2lkaXNtLWluLXBhdGllbnRzLXdpdGgtY2hyb25pYy1raWRuZXktZGlzZWFzZdIBAA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Frequency of Subclinical Hypothyroidism in Patients With Chronic Kidney Disease"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMiXmh0dHBzOi8vd3d3Lm5ldXJvbG9neWxpdmUuY29tL3ZpZXcvYW54aWV0eS1kZXByZXNzaW9uLWNoaWxkcmVuLWFkb2xlc2NlbnRzLW1pZ3JhaW5lLXNlcmVuYS1vcnLSAQA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Anxiety and Depression in Children and Adolescents With Migraine: Serena L. Orr, MD, MSc"
+            },
+            {
+                "url": "https://news.google.com/articles/CCAiC1pSa0wtdGhaWnZrmAEB?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Debate on the future of ActiveTO heats up"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiENqZ99ETwDMXY93GN7bEO7cqGQgEKhAIACoHCAowhOP4CjDkr98CMNfyzAY?uo=CAUihAFodHRwczovL3d3dy50aGVoZWFsdGhzaXRlLmNvbS9kaXNlYXNlcy1jb25kaXRpb25zL3dvcmxkLWhlYXJ0LXJoeXRobS13ZWVrLWhvdy10by1wcmV2ZW50LWFycmh5dGhtaWEtZXhwbGFpbnMtZHItYmFsYmlyLXNpbmdoLTg4NjUzOC_SAQA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "World Heart Rhythm Week: How To Prevent Arrhythmia? Explains Dr Balbir Singh | TheHealthSite.com"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMidWh0dHBzOi8vd3d3LmN1cmV1cy5jb20vYXJ0aWNsZXMvOTc2NzktYS1yYXJlLWNhc2Utb2Ytb3JiaXRhbC1hZGVub2lkLWN5c3RpYy1jYXJjaW5vbWEtbWltaWNraW5nLWFzLW9wdGljLW5lcnZlLWdsaW9tYdIBAA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "A Rare Case of Orbital Adenoid Cystic Carcinoma Mimicking as Optic Nerve Glioma"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMiJmh0dHBzOi8vd3d3LmVhdHRoaXMuY29tL2tpd2ktYmVuZWZpdHMv0gEA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Surprising Effects of Eating Kiwi, Says Dietitian — Eat This Not That"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMiU2h0dHBzOi8vd3d3LmVhdHRoaXMuY29tL25ld3Mtc3VycHJpc2luZy1zaWducy15b3UtaGF2ZS1maWJyb215YWxnaWEtbGlrZS1sYWR5LWdhZ2Ev0gEA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Surprising Signs You Have Fibromyalgia Like Lady Gaga — Eat This Not That"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMiQWh0dHBzOi8vd3d3LmVhdHRoaXMuY29tL25ld3MtZWdncy1tYXktaW5jcmVhc2UtY2FuY2VyLXJpc2stc3R1ZHkv0gEA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "This Popular Breakfast Food May Be Increasing Your Cancer Risk, New Study Suggests — Eat This Not That"
+            },
+            {
+                "url": "https://news.google.com/articles/CAIiEEJBv1Ag7lRiJXDnY-JExa0qFwgEKg4IACoGCAoww7k_MMevCDC88PkG?uo=CAUieGh0dHBzOi8vd3d3LmhpbmR1c3RhbnRpbWVzLmNvbS9saWZlc3R5bGUvaGVhbHRoL3N0dWR5LWhvdy1kb2VzLW91ci1icmFpbi1wcm9jZXNzLWFuZC1zdG9yZS1tb3ZlbWVudC0xMDE2NTUwMTM3OTg1MjEuaHRtbNIBAA&hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Study: How does our brain process and store movement?"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMicWh0dHBzOi8vamFwYW50b2RheS5jb20vY2F0ZWdvcnkvZmVhdHVyZXMvaGVhbHRoLyUyN3ZlcnktaWdub3JhbnQtcnVtb3VyJTI3LW1pc2luZm9ybWF0aW9uLWFib3VuZHMtYWJvdXQtbW9ua2V5cG940gEA?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Misinformation abounds about monkeypox"
+            },
+            {
+                "url": "https://news.google.com/articles/CBMiS2h0dHBzOi8vd3d3LmNpdHlzcGlkZXkuY29tL25ld3MvMTgwMTIvY2hhbW9taWxlLXRlYS1hbmQtaXRzLWhlYWx0aC1iZW5lZml0c9IBT2h0dHBzOi8vd3d3LmNpdHlzcGlkZXkuY29tL2FtcC9uZXdzLzE4MDEyL2NoYW1vbWlsZS10ZWEtYW5kLWl0cy1oZWFsdGgtYmVuZWZpdHM?hl=en-UG&gl=UG&ceid=UG%3Aen",
+                "date": null,
+                "title": "Chamomile tea and it's health benefits"
+            }
+        ]
+    }
+]
